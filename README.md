@@ -16,4 +16,4 @@ Página web creada como tarea para alojar una web en GitHub Pages.
 Inspirada en la web de El País sobre el cambio climático.
 
 ## Enlace a la web
-https://TUUSUARIO.github.io/prueba-web
+https://10fedo.github.io/Prueba-web/
