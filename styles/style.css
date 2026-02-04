@@ -1,1 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+#caja {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: relative;
+  margin-top: 20px;
+}
 
